@@ -36,22 +36,13 @@ Actualmente me encuentro desarrollando aplicaciones Full Stack, explorando el po
 
 ### Cloud & DevOps
 - Google Cloud Platform
-- Cloud Run
-- Cloud SQL
+- AWS
 - Firebase Hosting
 - Docker
 - Git
 - GitHub
 - GitLab
 - SSH
-
-### Inteligencia Artificial
-- Python
-- OpenCV
-- CNN
-- Fine-Tuning
-- Federated Learning
-- AI Agents
 
 ### Sistemas Operativos
 - Debian
@@ -89,7 +80,7 @@ Creo firmemente que compartir conocimiento fortalece el ecosistema tecnológico.
 - Coordinador de FLISoL Sucre (2025 y 2026).
 - Instructor de cursos básicos de GNU/Linux.
 - Tallerista de instalación de GNU/Linux.
-- Miembro activo de la comunidad Núcleo Linux.
+- Miembro activo de la comunidad Núcleo Linux USFX.
 
 ---
 
